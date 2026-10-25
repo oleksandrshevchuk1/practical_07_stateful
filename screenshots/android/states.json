@@ -1,0 +1,27 @@
+[
+  {
+    "seconds": 0.0,
+    "action": "Початковий стан застосунку",
+    "screenshot": "screenshots/android/01.png"
+  },
+  {
+    "seconds": 6.4,
+    "action": "Зміна Ширина",
+    "screenshot": "screenshots/android/02.png"
+  },
+  {
+    "seconds": 12.7,
+    "action": "Зміна Висота",
+    "screenshot": "screenshots/android/03.png"
+  },
+  {
+    "seconds": 18.9,
+    "action": "Зміна Верхній правий радіус",
+    "screenshot": "screenshots/android/04.png"
+  },
+  {
+    "seconds": 23.0,
+    "action": "Підсумковий стан",
+    "screenshot": "screenshots/android/05.png"
+  }
+]

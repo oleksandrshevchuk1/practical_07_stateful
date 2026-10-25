@@ -1,0 +1,17 @@
+{
+  "number": 7,
+  "source": "actual Android runtime",
+  "reviewed": true,
+  "screenshots": [
+    {
+      "file": "01-initial.png",
+      "description": "Початковий стан",
+      "source": "android/01.png"
+    },
+    {
+      "file": "02-configured.png",
+      "description": "Змінені ширина, висота та верхній правий радіус",
+      "source": "android/05.png"
+    }
+  ]
+}
